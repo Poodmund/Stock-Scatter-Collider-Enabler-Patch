@@ -1,9 +1,8 @@
 {
     "spec_version": "v1.4",
-    "identifier": "SSCEP",
+    "identifier": "StockScatterColliderEnablerPatch",
     "$kref": "#/ckan/github/Poodmund/Stock-Scatter-Collider-Enabler-Patch",
     "$vref": "#/ckan/ksp-avc",
-    "x_netkan_epoch": "2",
     "name": "Stock Scatter Collider Enabler Patch",
     "abstract": "This mod aims to provide a small patch to enable the ground scatter collider meshes for the stock ground scatter instances on the stock bodies for Kerbal Space Program.",
     "author": [ "Poodmund" ],
