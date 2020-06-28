@@ -28,7 +28,10 @@
     ],
     "conflicts": [
         {
-            "name": "RealSolarSystem"
+            "name": "Spectra"
+        },
+		{
+            "name": "SVE-Terrain"
         }
     ]
 }
