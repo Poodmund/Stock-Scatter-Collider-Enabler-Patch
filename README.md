@@ -1,6 +1,6 @@
-# Stock Scatter Collider Enabler Patch v1.0.0
+# Stock Scatter Collider Enabler Patch v1.0.1
 
-This version of the Stock Scatter Collider Enabler Patch has been built to work for KSP version 1.9.# as of the date 28th June 2020.
+This version of the Stock Scatter Collider Enabler Patch has been built to work for KSP version 1.8.# - 1.11.# as of the date 12th Feb 2021.
 
 ### 1 - About
 
@@ -16,12 +16,16 @@ Extract the GameData folder found in the downloadable .zip directly into your Ke
 
 The following KSP mod must be installed prior to using the Stock Scatter Collider Enabler Patch mod (ensure that you install the correct version of the dependency for your version of KSP):
 
-* Kopernicus or Kopernicus Continued (depending on KSP version) - https://github.com/Kopernicus/Kopernicus/releases or https://github.com/prestja/Kopernicus/releases
+* Kopernicus (depending on KSP version) - https://github.com/Kopernicus/Kopernicus/releases
 * Module Manager - https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*
 
 ### 4 - Changelog
 
-v1.0.0
+v1.0.1
+
+* Version bump up to KSP 1.11.99 compatibility
+
+v1.0.1
 
 * Initial release
 
