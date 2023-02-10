@@ -1,36 +1,24 @@
-{
-    "spec_version": "v1.4",
-    "identifier": "StockScatterColliderEnablerPatch",
-    "$kref": "#/ckan/github/Poodmund/Stock-Scatter-Collider-Enabler-Patch",
-    "$vref": "#/ckan/ksp-avc",
-    "name": "Stock Scatter Collider Enabler Patch",
-    "abstract": "This mod aims to provide a small patch to enable the ground scatter collider meshes for the stock ground scatter instances on the stock bodies for Kerbal Space Program.",
-    "author": [ "Poodmund" ],
-    "license": "GPL-3.0",
-    "resources": {
-        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/195127-*"
-    },
-    "install": [
-        {
-            "find": "SSCEP",
-            "install_to": "GameData",
-            "comment": "This is the main install for SSCEP"
-        }
-    ],
-    "depends": [
-        {
-            "name": "ModuleManager"
-        },
-        {
-            "name": "Kopernicus"
-        }
-    ],
-    "conflicts": [
-        {
-            "name": "Spectra"
-        },
-		{
-            "name": "SVE-Terrain"
-        }
-    ]
-}
+spec_version: v1.4
+identifier: StockScatterColliderEnablerPatch
+$kref: '#/ckan/github/Poodmund/Stock-Scatter-Collider-Enabler-Patch'
+$vref: '#/ckan/ksp-avc'
+name: Stock Scatter Collider Enabler Patch
+abstract: >-
+  This mod aims to provide a small patch to enable the ground scatter collider
+  meshes for the stock ground scatter instances on the stock bodies for Kerbal
+  Space Program.
+author:
+  - Poodmund
+license: GPL-3.0
+resources:
+  homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/195127-*
+install:
+  - find: SSCEP
+    install_to: GameData
+    comment: This is the main install for SSCEP
+depends:
+  - name: ModuleManager
+  - name: Kopernicus
+conflicts:
+  - name: Spectra
+  - name: SVE-Terrain
